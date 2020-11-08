@@ -1,0 +1,125 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "RAINBOW\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"RAINBOW\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "LETS UPGRADE\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"LETS UPGRADE\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Profit\n"
+     ]
+    }
+   ],
+   "source": [
+    "cp = 50\n",
+    "sp = 75\n",
+    "if sp>50:\n",
+    "    print(\"Profit\")\n",
+    "elif sp<50:\n",
+    "    print(\"Loss\")\n",
+    "else:\n",
+    "    print(\"Neither\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Neither\n"
+     ]
+    }
+   ],
+   "source": [
+    "cp = 60\n",
+    "sp = 60\n",
+    "if sp>60:\n",
+    "    print(\"Profit\")\n",
+    "elif sp<60:\n",
+    "    print(\"Loss\")\n",
+    "else:\n",
+    "    print(\"Neither\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "eur =  40.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "inr = 3200\n",
+    "print(\"eur = \",inr/80)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
